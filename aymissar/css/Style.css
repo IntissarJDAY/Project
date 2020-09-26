@@ -1,0 +1,55 @@
+a:visited {
+  color: green;
+}
+h1 {
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  font-style: italic;
+  font-size: 2.5vw;
+  word-spacing: 20px;
+  letter-spacing: 5px;
+}
+iframe {
+  border-radius: 10px;
+  background-color: #fcf4f9;
+  padding: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  border-radius: 35px;
+}
+#pos {
+    width: 100%;
+    text-align: right;
+    word-spacing: 35px;
+    letter-spacing: 2px;
+    font-size: 1.6vw;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+  }
+.space {
+  margin: 5px;
+}
+a:link {
+  text-decoration: none;
+}
+.border {
+  border-radius: 25px;
+}
+hr {
+  width: 80%;
+  height: 2px;
+  background-color: rgb(133, 37, 125);
+  box-shadow: 3px 1px rgb(223, 155, 240);
+}
+* {
+  box-sizing: border-box;
+}
+table{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}

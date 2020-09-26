@@ -1,0 +1,46 @@
+a:visited {
+    color: green;
+  }
+  #pos {
+    width: 100%;
+    text-align: right;
+    word-spacing: 35px;
+    letter-spacing: 2px;
+    font-size: 1.6vw;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  hr{
+    width: 80%;
+    height: 2px;
+    background-color: rgb(133, 37, 125);
+    box-shadow: 3px 1px rgb(223, 155, 240);
+}
+* {
+    box-sizing: border-box;
+  }
+  table{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+.modimg{
+  width: 230px;
+  height: 230px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+  padding-left: 30px ;
+  border-radius: 50px;
+} 
+.container {
+  border-radius: 10px;
+  background-color: #fcf4f9;
+  padding: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+} 
